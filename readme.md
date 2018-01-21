@@ -1,4 +1,4 @@
-# Module Requests
+# Project Requests
 
 Got a great idea for a library, tool or module for the Contentful ecosystem? Great!
 
